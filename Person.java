@@ -28,11 +28,13 @@ public class Person extends Project1{
 		return personNumber;
 	}
 	
+	//Returns the used variable
 	public boolean getUsed()
 	{
 		return used;
 	}
 	
+	//Sets the used variable
 	public void setUsed(boolean used)
 	{
 		this.used = used;
